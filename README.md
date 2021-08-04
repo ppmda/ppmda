@@ -1,4 +1,10 @@
-## Oiii! 🎇 
+## Oiii! Meu nome é Pamela, mas pode me chamar de Pam 🎇
+
+💻Estou estudando atualmente para iniciar uma carreira como Front-End <br>
+📚 Estou me aprimorando em: react, html/css/javascript, golang <br>
+
+
+<br>
  <div>
   <a href="https://github.com/ppmda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppmda&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
@@ -15,3 +21,6 @@
 </div>
   
   ##
+
+<a href="https://www.linkedin.com/in/pamela-silva-coelho-9233b6129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:pmlclh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
