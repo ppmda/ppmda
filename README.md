@@ -17,7 +17,7 @@
   <img align="center" alt="Pam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pam-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="right" height="150" widht="150" alt="Pam-gif" src="https://media.giphy.com/media/JlrxeSX6ulr4oRaMQR/giphy.gif">
+<!--   <img align="right" height="150" widht="150" alt="Pam-gif" src="https://media.giphy.com/media/JlrxeSX6ulr4oRaMQR/giphy.gif"> -->
 </div>
   
   ##
