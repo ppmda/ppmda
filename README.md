@@ -1,8 +1,5 @@
 ## Oiii! Meu nome é Pamela, mas pode me chamar de Pam 🎇
 
-- 💻 Estou estudando atualmente para iniciar uma carreira como Front-End <br>
-- 📚 Estou me aprimorando em: react, html/css/javascript, golang <br>
-
 
 <br>
  <div>
