@@ -1,5 +1,3 @@
-## Oiii! Meu nome é Pamela, mas pode me chamar de Pam 🎇
-
 
 <br>
 
