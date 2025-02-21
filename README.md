@@ -16,6 +16,4 @@
  <div>
 <a href="https://www.linkedin.com/in/pamela-silva-coelho-9233b6129/"><img src="https://img.shields.io/badge/-pamelacoelho-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:pmlclh@gmail.com"><img src="https://img.shields.io/badge/-pmlclh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-
-![Snake animation](https://github.com/ppmda/ppmda/blob/output/github-contribution-grid-snake.svg)
  </div>
